@@ -1,2 +1,5 @@
 # FOOTBRAWL
-FOOTBRAWL!!!!!!!! , movement is arrow keys , and special moves are mentioned in the character selection menu
+CONTROLS
+Movement: Arrow Keys
+Special Moves: Check the Character Selection Menu for unique abilities. Every character has a different way to attack.
+
